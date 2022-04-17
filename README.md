@@ -27,9 +27,7 @@ The test data result is shown in figure below
 ![Test Result](https://user-images.githubusercontent.com/100821053/163698893-d067d85a-1006-4c7d-bf7d-c8e031b954f9.png)
 
 The figure below shows the predictions made by the model comapared to the orignial mask to. The results shows very good accuracy from the model predictions.
-![Result 1](https://user-images.githubusercontent.com/100821053/163698989-9e53a312-8a74-418d-b312-5fbf2573339a.png)
-![Result 2](https://user-images.githubusercontent.com/100821053/163698990-86d40199-f7d0-45b4-93f1-f2189cc1863b.png)
-![Result 3](https://user-images.githubusercontent.com/100821053/163698994-f02728b0-513a-4c7f-bfb1-ac4c2e90fee5.png)
+![Result 1](https://user-images.githubusercontent.com/100821053/163698989-9e53a312-8a74-418d-b312-5fbf2573339a.png)![Result 2](https://user-images.githubusercontent.com/100821053/163698990-86d40199-f7d0-45b4-93f1-f2189cc1863b.png)![Result 3](https://user-images.githubusercontent.com/100821053/163698994-f02728b0-513a-4c7f-bfb1-ac4c2e90fee5.png)
 
 
 
